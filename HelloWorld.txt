@@ -1,5 +1,5 @@
 Hello World!
 
-Fitxer txt del primer exercici de Git/Github.
+Modificación a la branca master.
 
 Marc
